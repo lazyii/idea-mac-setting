@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Branch Context group" displayType="NONE" />
-    <notification groupId="Vcs Important Messages" />
-    <notification groupId="Vcs Notifications" displayType="NONE" />
-  </component>
-</application>
