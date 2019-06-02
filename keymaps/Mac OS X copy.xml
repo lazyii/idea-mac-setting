@@ -1,0 +1,112 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift f4" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.ColumnsList" />
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Debugger.EditTypeSource" />
+  <action id="DecrementWindowHeight" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditSourceInNewWindow" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="InsertLiveTemplate" />
+  <action id="JumpToLastWindow" />
+  <action id="KotlinShellExecute" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="OpenElementInNewWindow" />
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="UML.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="UML.ShowStructure" />
+  <action id="Vcs.Checkout">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="ViewSource" />
+</keymap>
