@@ -1,6 +1,6 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="CallHierarchy">
-    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift f4" />
