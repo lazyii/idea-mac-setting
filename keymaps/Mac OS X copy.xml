@@ -95,8 +95,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="Refresh" />
   <action id="ResetColumnsWidth" />
