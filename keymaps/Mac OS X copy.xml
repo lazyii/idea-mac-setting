@@ -40,6 +40,7 @@
   <action id="EditorPreviousWord" />
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
+  <action id="Exit" />
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="meta add" />
     <keyboard-shortcut first-keystroke="meta equals" />
@@ -67,6 +68,7 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="MinimizeCurrentWindow" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
@@ -105,6 +107,9 @@
   </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="TypeHierarchy" />
   <action id="UML.ActualSize">
